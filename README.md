@@ -88,7 +88,7 @@
 
 ## v0.1.0 / 2016-01-24
 
-  * Registrazione dominio [MasseriaUlivi.com](http://masseriaulivi.com) [HecBar](@HecBar)
+  * Registrazione dominio [MasseriaUlivi.com](http://masseriaulivi.com) (Hector)
 
 ## v0.0.1 / 2015-10-11
 
