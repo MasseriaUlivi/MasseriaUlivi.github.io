@@ -58,7 +58,7 @@
   * Ricevuto codice d'attivazione attività da Google
   * Registrazione a [Google+](https://plus.google.com/+MasseriaUlivi)
 
-## v0.2.6 / 2016-10-30
+## v0.2.6 / 2016-11-03
 
   * Inviata 2° richiesta a Google per registrazione attività
 
