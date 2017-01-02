@@ -53,10 +53,14 @@
 
   * Inviata richiesta Authorization Code al registrant per sua volontà di trasferimento del dominio
 
-## v0.2.6 / 2016-11-26
+## v0.2.7 / 2016-11-26
 
   * Ricevuto codice d'attivazione attività da Google
   * Registrazione a [Google+](https://plus.google.com/+MasseriaUlivi)
+
+## v0.2.6 / 2016-10-30
+
+  * Inviata 2° richiesta a Google per registrazione attività
 
 ## v0.2.5 / 2016-10-10
 
@@ -68,7 +72,7 @@
 
 ## v0.2.3 / 2016-09-19
 
-  * Inviata richiesta a Google per registrazione attività
+  * Inviata 1° richiesta a Google per registrazione attività
 
 ## v0.2.2 / 2016-09-16
 
