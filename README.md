@@ -10,10 +10,18 @@
 
 ### Terminare
 
+## v0.4.2 / 2016-12-28
+
+  * Installazione e configurazione plugin per moduli di contatto
+  * Installazione e configurazione plugin per la gestione delle prenotazioni
+  * Definizione logo trasparente definitivo per brandizzazione foto
+  * Brandizzazione 42 foto
+  * Upload 42 foto brandizzate
+
 ## v0.4.1 / 2016-12-27
 
-  * Installazione e configurazione plugin antispam [Akismet](https://akismet.com)
   * Connessione del sito al network [WordPress.com](http://WordPress.com)
+  * Installazione e configurazione plugin antispam [Akismet](https://akismet.com)
   * Installazione e configurazione [Jetpack](https://github.com/Automattic/Jetpack)
 
 ## v0.4.0 / 2016-12-26
