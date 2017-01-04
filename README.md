@@ -10,6 +10,11 @@
 
 ### Terminare
 
+## v0.4.3 / 2017-01-03
+
+  * Rinominate le 42 foto con 42 descrizioni differenti
+  * Aggiornata l'Home Page
+
 ## v0.4.2 / 2016-12-28
 
   * Installazione e configurazione plugin per moduli di contatto
