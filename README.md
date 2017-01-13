@@ -10,6 +10,13 @@
 
 ### Terminare
 
+## v0.4.4 / 2017-01-05
+
+  * Installazione e configurazione plugin per la gestione delle prenotazioni
+  * Installazione e configurazione plugin per la gestione delle gallerie fotografiche
+  * Aggiornata l'Home Page
+  * Aggiunta la mappa
+
 ## v0.4.3 / 2017-01-03
 
   * Rinominate le 42 foto con 42 descrizioni differenti
@@ -18,7 +25,6 @@
 ## v0.4.2 / 2016-12-28
 
   * Installazione e configurazione plugin per moduli di contatto
-  * Installazione e configurazione plugin per la gestione delle prenotazioni
   * Definizione logo trasparente definitivo per brandizzazione foto
   * Brandizzazione 42 foto
   * Upload 42 foto brandizzate
