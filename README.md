@@ -10,6 +10,18 @@
 
 ### Terminare
 
+## v0.5.0 / 2017-01-17
+
+  * Intervento a domicilio per acquisizione nuovi dati e dettagli location
+
+## v0.4.6 / 2017-01-11
+
+  * Aggiunta pagina prenotazioni
+
+## v0.4.5 / 2017-01-09
+
+  * Aggiunta galleria fotografica
+
 ## v0.4.4 / 2017-01-05
 
   * Installazione e configurazione plugin per la gestione delle prenotazioni
