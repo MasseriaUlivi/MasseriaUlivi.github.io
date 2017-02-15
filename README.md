@@ -10,9 +10,51 @@
 
 ### Terminare
 
+## v0.5.9 / 2017-02-13
+
+  * Sotto a [Trulli](https://masseriaulivi.com/trulli/)
+    * Aggiunta pagina [Filippo](https://masseriaulivi.com/trulli/filippo/)
+    * Aggiunta pagina [Melograno](https://masseriaulivi.com/trulli/melograno/)
+
+## v0.5.8 / 2017-02-12
+
+  * Aggiunta pagina [Storia](https://masseriaulivi.com/storia/)
+  * Aggiunta pagina [Trulli](https://masseriaulivi.com/trulli/)
+    * Aggiunta pagina [Appartamento](https://masseriaulivi.com/trulli/appartamento/)
+    * Aggiunta pagina [Carrozze](https://masseriaulivi.com/trulli/carrozze/)
+    * Aggiunta pagina [Dimora di Grace](http://masseriaulivi.com/trulli/dimora-di-grace/)
+
+## v0.5.7 / 2017-02-10
+
+  * Upload sul server delle foto mancanti e vecchie foto
+
+## v0.5.6 / 2017-02-09
+
+  * Ritaglio e brandizzazione vecchie foto
+
+## v0.5.5 / 2017-02-06
+
+  * Ritaglio e brandizzazione vecchie foto
+
+## v0.5.4 / 2017-02-03
+
+  * Scannerizzazione e digitalizzazione vecchie foto
+
+## v0.5.3 / 2017-01-31
+
+  * Ricezione piccola introduzione e descrizione camere
+
+## v0.5.2 / 2017-01-22
+
+  * Brandizzazione nuove foto mancanti ricevute
+
+## v0.5.1 / 2017-01-18
+
+  * Ricezione nuove foto mancanti
+
 ## v0.5.0 / 2017-01-17
 
-  * Intervento a domicilio per acquisizione nuovi dati e dettagli location
+  * Intervento a domicilio per acquisizione nuovi dati, dettagli location e modalità di pagamento prenotazioni on-line
 
 ## v0.4.6 / 2017-01-11
 
