@@ -10,6 +10,28 @@
 
 ### Terminare
 
+  * Modulo prenotazioni
+
+## v0.5.12 / 2017-02-20
+
+  * Aggiunti i pulsanti di condivisione sui Social Network
+  * Modificata l'Home Page
+  * Ottimizzato il caricamento delle immagini
+  * Ripristinate le statistiche d'accesso sul nuovo server
+  * Sotto a [Trulli](https://masseriaulivi.com/trulli/)
+    * Arricchita ed ampliata la pagina [Dimora di Grace](http://masseriaulivi.com/trulli/dimora-di-grace/)
+    * Arricchita ed ampliata la pagina [Filippo](https://masseriaulivi.com/trulli/filippo/)
+    * Arricchita ed ampliata la pagina [Melograno](https://masseriaulivi.com/trulli/melograno/)
+
+## v0.5.11 / 2017-02-17
+
+  * Sotto a [Trulli](https://masseriaulivi.com/trulli/)
+    * Arricchita ed ampliata la pagina [Carrozze](https://masseriaulivi.com/trulli/carrozze/)
+
+## v0.5.10 / 2017-02-15
+
+  * Arricchita ed ampliata la pagina [Storia](https://masseriaulivi.com/storia/)
+
 ## v0.5.9 / 2017-02-13
 
   * Sotto a [Trulli](https://masseriaulivi.com/trulli/)
